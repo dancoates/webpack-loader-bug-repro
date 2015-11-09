@@ -17,5 +17,5 @@ webpack({
     },
    
 }, function(err, stats) {
-    console.log(err, stats);
+    console.log(err);
 });
